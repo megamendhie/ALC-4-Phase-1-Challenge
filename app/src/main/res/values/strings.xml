@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1 Challenge</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="txtName">Mendhie Emmanuel Imeh</string>
+    <string name="txt_slack_username">\@Mendhie</string>
+    <string name="title_track">Track:</string>
+    <string name="title_country">Country:</string>
+    <string name="title_email">Email:</string>
+    <string name="title_phone_no">Phone No:</string>
+    <string name="title_slack_username">Slack Username:</string>
+    <string name="txt_track">Android</string>
+    <string name="txt_country">Nigeria</string>
+    <string name="txt_email">imendhie@gmail.com</string>
+    <string name="txt_phone_no">2348039223654</string>
+    <string name="txt_image_description">profile image</string>
+    <string name="andela_url">https://andela.com/alc/</string>
+    <string name="txt_btn_about">About ALC</string>
+    <string name="txt_btn_profile">My Profile</string>
+</resources>
